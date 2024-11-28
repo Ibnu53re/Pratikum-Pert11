@@ -1,4 +1,4 @@
-# input dan output dari Praktikum 6
+# Input dan Output dari Praktikum 6
 ## Input
 ```Python
 def tambah(data_mahasiswa):
@@ -71,8 +71,8 @@ Menu:
 4. Ubah data mahasiswa
 5. Keluar
 Pilih menu (1/2/3/4/5): 1
-Masukkan nama mahasiswa: Sheila
-Masukkan nilai mahasiswa: 87
+Masukkan nama mahasiswa: Ibnu
+Masukkan nilai mahasiswa: 99
 Data mahasiswa berhasil ditambahkan.
 
 Menu:
@@ -82,8 +82,8 @@ Menu:
 4. Ubah data mahasiswa
 5. Keluar
 Pilih menu (1/2/3/4/5): 1
-Masukkan nama mahasiswa: Khusnul
-Masukkan nilai mahasiswa: 87
+Masukkan nama mahasiswa: Nazhif
+Masukkan nilai mahasiswa: 97
 Data mahasiswa berhasil ditambahkan.
 
 Menu:
@@ -93,8 +93,8 @@ Menu:
 4. Ubah data mahasiswa
 5. Keluar
 Pilih menu (1/2/3/4/5): 1
-Masukkan nama mahasiswa: Alya 
-Masukkan nilai mahasiswa: 87
+Masukkan nama mahasiswa: Alam
+Masukkan nilai mahasiswa: 89
 Data mahasiswa berhasil ditambahkan.
 
 Menu:
@@ -122,7 +122,7 @@ Menu:
 Pilih menu (1/2/3/4/5): 5
 ```
 ## Flowcart
-![output](Diagram per11.png)
+![output][Diagram per11.png]
 
 ## Penjelasan 
 - Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam daftar data_mahasiswa.
