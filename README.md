@@ -122,7 +122,7 @@ Menu:
 Pilih menu (1/2/3/4/5): 5
 ```
 ## Flowcart
-![Flowchart](Diagram per11.png)
+![Flowchart](Diagram.png)
 
 ## Penjelasan 
 - Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam daftar data_mahasiswa.
